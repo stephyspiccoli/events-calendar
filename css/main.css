@@ -33,7 +33,7 @@ table {
 
 .event {
   border-radius: 8px;
-  border: solid 1px #666;
+  border: solid 1px #333;
 }
 
 .grey {
@@ -45,4 +45,16 @@ table {
   background-color: #f2bcbc;
   border: solid 1px #b92828;
   color: #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  color: #51603f;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  color: #38448e;
 }
